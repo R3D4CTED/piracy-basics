@@ -16,7 +16,7 @@ Chances are, if you've heard of torrenting, it'd mostly have been in a negative 
 
 ## How do torrents work and what are some "buzzwords" associated with it?
 
-The file to be distributed is split into "pieces" and distributed to the swarm and the size of the piece depends on setting of torrent creator. Each peer only uploads his/her particular piece to the rest of the swarm and simultaneously downloads other pieces from the swarm. The pieces are then assembled back into the full file. Each piece is guarded by a cryptographic ["hash"](https://en.wikipedia.org/wiki/Cryptographic_hash_function) to prevent tampering.
+The file to be distributed is split into "pieces" and distributed to the swarm and the size of the piece depends on the file size. Each peer only uploads his/her particular piece to the rest of the swarm and simultaneously downloads other pieces from the swarm. The pieces are then assembled back into the full file. Each piece is guarded by a cryptographic ["hash"](https://en.wikipedia.org/wiki/Cryptographic_hash_function) to prevent tampering.
 
 Further reading:-
 [Wikipedia](https://en.wikipedia.org/wiki/BitTorrent). Worth a read as it's explained more in-depth here.
