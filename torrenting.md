@@ -35,8 +35,8 @@ Copy the magnet link or download the torrent file. You should have the magnet li
 
 Step 1: Open your torrent client. You should see something like [this](https://files.catbox.moe/y0m598.JPG). I have quite a few files downloaded, hence there are a lot of entries. As you can see, there's a lot of information, so let's look at it one-by-one.
 
-The main window:- The entire central section that I've censored the name section of. This is a list of all the torrents you have downloaded.
-The torrent detailed information window:- The section right below the main window. It has further information such as the number of peers, pieces, availability, upload/download speed, amount uploaded, amount downloaded, number of pieces, save path and other information.
+The main window:- The entire central section that I've censored the name section of. This is a list of all the torrents you have downloaded.<br>
+The torrent detailed information window:- The section right below the main window. It has further information such as the number of peers, pieces, availability, upload/download speed, amount uploaded, amount downloaded, number of pieces, save path and other information.<br>
 
 Step 2: Look at the [top bar](https://files.catbox.moe/dexwsf.JPG). Depending on whether you've chosen a torrent file or a magnet link, step(s) may vary.
 
