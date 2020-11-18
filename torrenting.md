@@ -2,11 +2,11 @@
 
 ## Requirements:-
 1. Half-a-brain cell(essential)
-2. An internet connection
+2. An internet connection.
 3. A device(preferably a PC) and average knowledge on how to use it.
 4. Time.
 
-## Introduction:-
+## Introduction.
 
 You might've heard of "torrents". Is that a new buzzword that kids use nowadays? What the f@&% is it? Well, your friend [REDACTED] is here to answer everything you possibly want and more!
 
