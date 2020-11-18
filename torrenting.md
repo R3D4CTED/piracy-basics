@@ -18,15 +18,10 @@ Chances are, if you've heard of torrenting, it'd mostly have been in a negative 
 
 The file to be distributed is split into "pieces" and distributed to the swarm and the size of the piece depends on setting of torrent creator. Each peer only uploads his/her particular piece to the rest of the swarm and simultaneously downloads other pieces from the swarm. The pieces are then assembled back into the full file. Each piece is guarded by a cryptographic ["hash"](https://en.wikipedia.org/wiki/Cryptographic_hash_function) to prevent tampering.
 
-Peer = Any person who is downloading or has downloaded a torrent
-Swarm = The entire set of peers
-Tracker = A server that keeps track of the swarm and what pieces each peer is assigned and facilitates the interaction of peers.
-Hash = It is a randomly generated "key" to some data
-Leeching = The act of downloading a torrent
-Seeding = The act of uploading your assigned piece
-
 Further reading:-
 [Wikipedia](https://en.wikipedia.org/wiki/BitTorrent). Worth a read as it's explained more in-depth here.
+
+Please refer to the "glossary" section for the "buzzwords" and what they mean.
 
 ## Alright, enough intros. How do I torrent?
 
@@ -74,6 +69,14 @@ Please check the number of peers you are connected to. The number outside the br
 ### My upload speed is always 0. Am I seeding?
 
 You are available to seed, but there might be other peers with faster connections that are uploading pieces to leechers.
+
+## Glossary
+Peer = Any person who is downloading or has downloaded a torrent
+Swarm = The entire set of peers
+Tracker = A server that keeps track of the swarm and what pieces each peer is assigned and facilitates the interaction of peers. It is also the site that lists torrents in a searchable manner. 
+Hash = It is a randomly generated "key" to some data
+Leeching = The act of downloading a torrent
+Seeding = The act of uploading your assigned piece
 
   
 
