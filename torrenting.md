@@ -53,7 +53,7 @@ You should see [this](https://files.catbox.moe/el0n6p.JPG).
 
 .torrent file:-
 
->A file navigation window will appear, navigate to your .torrent file, select it and click "Ok".
+>Select the second "file" option. A file navigation window will appear, navigate to your .torrent file, select it and click "Ok".
 
 Step 3: Regardless of which route you chose in the previous step, you should see [this](https://files.catbox.moe/vgakcw.JPG). The only relevant bit here is selecting your download location using the red highlighted button. Once that's done, you can choose "OK" to start torrent download.
 
