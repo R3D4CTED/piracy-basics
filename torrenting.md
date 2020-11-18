@@ -71,14 +71,9 @@ Please check the number of peers you are connected to. The number outside the br
 You are available to seed, but there might be other peers with faster connections that are uploading pieces to leechers.
 
 ## Glossary
->Peer = Any person who is downloading or has downloaded a torrent>
->Swarm = The entire set of peers
->Tracker = A server that keeps track of the swarm and what pieces each peer is assigned and facilitates the interaction of peers. It is also the site that lists torrents in a >searchable manner. 
->Hash = It is a randomly generated "key" to some data
->Leeching = The act of downloading a torrent
->Seeding = The act of uploading your assigned piece
-
-  
-
-
-
+>Peer = Any person who is downloading or has downloaded a torrent<br>
+>Swarm = The entire set of peers<br>
+>Tracker = A server that keeps track of the swarm and what pieces each peer is assigned and facilitates the interaction of peers. It is also the site that lists torrents in a >searchable manner.<br> 
+>Hash = It is a randomly generated "key" to some data.<br>
+>Leeching = The act of downloading a torrent.<br>
+>Seeding = The act of uploading your assigned piece.<br>
