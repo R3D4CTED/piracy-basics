@@ -86,7 +86,7 @@ You are available to seed, but there might be other peers with faster connection
 # TO-DO
 
 >Remove informal language.<br>
->Explain the rest of the tabs in the client>br>
+>Explain the rest of the tabs in the client.<br>
 >Add information for Advanced Users.<br>
 >Add a tl;dr.<br>
 >Explain Seedboxes.<br>
