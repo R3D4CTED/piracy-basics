@@ -82,3 +82,11 @@ You are available to seed, but there might be other peers with faster connection
 >Hash = It is a randomly generated "key" to some data.<br>
 >Leeching = The act of downloading a torrent.<br>
 >Seeding = The act of uploading your assigned piece.<br>
+
+## TODO
+
+>Add information for Advanced Users.<br>
+>Add a tl;dr.<br>
+>Explain Seedboxes.<br>
+>"Further Reading" section.<br>
+>More sources for VPN information.<br>
