@@ -25,7 +25,7 @@ Please refer to the "glossary" section for the "buzzwords" and what they mean.
 
 ## Alright, enough intros. How do I torrent?
 
-First, you go get a bittorrent client. This is basically a program that takes care of connecting and communicating with the tracker, so you can vibe. There are many clients available and the choice of client is entirely up to the reader. [Here](https://www.reddit.com/r/animepiracy/wiki/faq#wiki_torrent_faq)'s some recommendations.
+First, you go get a bittorrent client. This is basically a program that takes care of connecting and communicating with the tracker and piecing together the pieces you downloaded, so you can sit back and just monitor the progress. There are many clients available and the choice of client is entirely up to the reader. [Here](https://www.reddit.com/r/animepiracy/wiki/faq#wiki_torrent_faq)'s some recommendations.
 
 
 ```
@@ -55,7 +55,7 @@ You should see [this](https://files.catbox.moe/el0n6p.JPG).
 
 >Select the second "file" option. A file navigation window will appear, navigate to your .torrent file, select it and click "Ok".
 
-Step 3: Regardless of which route you chose in the previous step, you should see [this](https://files.catbox.moe/vgakcw.JPG). The only relevant bit here is selecting your download location using the red highlighted button. Once that's done, you can choose "OK" to start torrent download.
+Step 3: Regardless of which route you chose in the previous step, you should see [this](https://files.catbox.moe/vgakcw.JPG). The only relevant bit here is selecting your download location using the red highlighted button. You may also use the checkboxes to choose files to skip downloading, if the torrent has multiple files. Once that's done, you can choose "OK" to start torrent download.
 
 Step 4: Congratulations! The torrent should now start downloading if there are peers. Click on the torrent listing in the main window to see additional information.
 
@@ -85,6 +85,7 @@ You are available to seed, but there might be other peers with faster connection
 
 # TO-DO
 
+>Remove informal language.<br>
 >Add information for Advanced Users.<br>
 >Add a tl;dr.<br>
 >Explain Seedboxes.<br>
