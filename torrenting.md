@@ -27,7 +27,12 @@ Please refer to the "glossary" section for the "buzzwords" and what they mean.
 
 First, you go get a bittorrent client. This is basically a program that takes care of connecting and communicating with the tracker, so you can vibe. There are many clients available and the choice of client is entirely up to the reader. [Here](https://www.reddit.com/r/animepiracy/wiki/faq#wiki_torrent_faq)'s some recommendations.
 
+
+```
+WARNING!
 Before you proceed to the next step, please do check your local laws about the legality of downloading copyrighted material. The author disclaims any responsibility for any legal trouble the reader may get themselves into. If you're unsure, use a VPN(Virtual Private Network) to "hide" or "mask" your IP(internet protocol) address from the authorities and also "enrypt" or "mask" the information being transferred. Always use a VPN that doesn't keep logs. For more information, refer [here](https://www.reddit.com/r/animepiracy/wiki/faq#wiki_vpn_faq). Your IP Address is visible to all the members of the swarm, and there is a possibility of your IP being logged and your Internet Service provider being sent a notice.
+```
+
 
 Then you find a suitable torrent tracker. There are many available, so it'd be tedious(and potentially illegal) to list all of them. Just find them on r/Piracy's [megathread](https://www.reddit.com/r/piracy/wiki/megathread). Once you find a file you like, you're probably going to have 2 options- magnet link, .torrent files. It doesn't really matter which, but if you're sensitive about bloating up your hard drive with a large number of files(a torrent file is a small file, so it will take up negligible storage), magnet links might be an option.
 
