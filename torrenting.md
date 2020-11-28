@@ -1,7 +1,7 @@
 # How to torrent(u/V_Sharp) [CC-BY-SA]
 
 ## Requirements:-
-1. Half a brain cell(essential).
+1. Atleast 1 brain cell(essential).
 2. An internet connection.
 3. A device(preferably a PC) and average knowledge on how to use it.
 4. Time.
