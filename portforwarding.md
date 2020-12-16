@@ -27,3 +27,6 @@ Follow instructions given [here](http://portforward.com/). In case you don't hav
 ## Check
 
 Go [here](http://www.canyouseeme.org/). The IP should be filled up. Type in the port you assigned to the torrent client in there and hit check. If you see [this](https://i.imgur.com/6GQf4wh.jpg), congratulations! You have successfully forwarded your port.
+
+## Help! I can't forward!
+Don't worry, in some ISPs, "dual-level Routers" are a thing, therefore, you will be unable to forward unless you contact your ISP. In this case, a "Port Forwarding VPN" will be a good option to invest in.
