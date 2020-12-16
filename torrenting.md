@@ -85,6 +85,10 @@ Now, what is port forwarding? It is directly assigning a port of a machine on th
 
 Use [this](http://portforward.com/) site for instructions on how to port forward for your router. Use [this](http://www.canyouseeme.org/) to check if the port of your torrent client is forwarded.
 
+### What is a seedbox?
+
+A seedbox is a service that leeches torrents for you and provides the files in a direct download format, or uploads them to a cloud drive of your choice. They also seed the torrents, and have high upload speed, so are used by Private Tracker users. Since the seedbox has a high upload speed compared to regular peers in the swarm, it is more likely to be chosen to upload pieces.
+
 ## Glossary
 >Peer = Any person who is downloading or has downloaded a torrent.<br>
 >Swarm = The entire set of peers.<br>
@@ -100,7 +104,7 @@ Use [this](http://portforward.com/) site for instructions on how to port forward
 >~~Explain the importance of **connectability** and **port-forwarding**~~.<br>
 >Add information for Advanced Users.<br>
 >Add a tl;dr.<br>
->Explain Seedboxes.<br>
+~~>Explain Seedboxes.~~<br>
 >"Further Reading" section.<br>
 >More sources for VPN information.<br>
 >Explain trackers in detail(including private and public)<br>
